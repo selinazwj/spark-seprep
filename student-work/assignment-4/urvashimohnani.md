@@ -1,6 +1,6 @@
-# Urvashi Mohnani
+# Selina Zhang
 
-Hi, my name is Urvashi Mohnani and my favorite programing language is Go because I love developing container related technology!
+Hi, my name is Selina Z and my favorite programing language is Python because I love simple language!
 
 ## Example code
 
